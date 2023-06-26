@@ -1,0 +1,5 @@
+table
+chair
+armchair
+4mat
+hello word
